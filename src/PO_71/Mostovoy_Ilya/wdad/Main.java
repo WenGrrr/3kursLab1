@@ -1,4 +1,4 @@
-package com.company;
+package PO_71.Mostovoy_Ilya.wdad;
 
 public class Main {
 
